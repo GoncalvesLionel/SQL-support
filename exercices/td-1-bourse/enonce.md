@@ -52,4 +52,4 @@ Ecrire une requête afin de créer les tables suivantes
 ## Requêtes à effectuer
 
 - Afficher le total du portefeuille de chaque trader (nom + montant)
-- Afficher le nom des actions que le trader « Enzo » ne possède pas
+- Afficher le nom des actions que le trader n°1 ne possède pas
