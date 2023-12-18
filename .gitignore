@@ -2,3 +2,4 @@
 .idea
 var
 /var
+/exercices/**/*.sql
