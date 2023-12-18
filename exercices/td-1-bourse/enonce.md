@@ -8,11 +8,13 @@ Créer et tester la base de données définit par le schema suivant
 ## Créer la base de données bourse et 2 utilisateurs dédiés à cette base de données
 
 - Ecrire une requête permettant de créer la base de données
-- Ecrire une requête permettant de créer un utilisateur 'bourse_adm' et lui assigner seulement les privilèges de structure
+- Ecrire une requête permettant de créer un utilisateur 'bourse_adm' et lui assigner les privilèges d'utilisation et de structure
 - Ecrire une requête permettant de créer un utilisateur 'bourse_usr' et lui assigner seulement les privilèges d'utilisation
 
-> Info
+> **Info**
+> 
 > Les requêtes devront être passées avec l'utilisateur adéquate de la base de données bourse
+
 
 ## Créer les tables
 
