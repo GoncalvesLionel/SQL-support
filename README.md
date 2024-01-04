@@ -10,6 +10,11 @@ Ce projet propose une architecture Docker comprenant:
 
 # Liste des exercices
 
+## Initiation 
+- [Init 101: BDD todos](exercices/init-101/enonce.md)
+
+
+## Travaux dirigés
 - [Td 1: BDD Bourse](exercices/td-1-bourse/enonce.md)
 
 # Crédits 
