@@ -8,8 +8,8 @@ Dans le cadre d'une application fictive MyTodos, Vous devez créer la base de do
 
 ## Créer la base de données todos et l'utilisateurs dédié à cette base de données
 
-- Ecrire une requête permettant de créer la base de données 'my_todos'
-- Ecrire une requête permettant de créer un utilisateur 'my_todos_adm' et lui assigner les privilèges d'utilisation et de structure
+- Ecrire une requête permettant de créer la base de données 'todos'
+- Ecrire une requête permettant de créer un utilisateur 'todos_adm' et lui assigner les privilèges d'utilisation et de structure
 
 > **Info**
 >
