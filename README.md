@@ -4,7 +4,7 @@
 # Description
 
 Projet présentant une serie d'exercices destinés à la pratique du SQL.
-Ce projet propose une architecture Docker comprenant:
+Ce projet propose une architecture Docker comprenant :
 - Une base de donnée MariaDb
 - PHPMyAdmin
 
@@ -16,6 +16,7 @@ Ce projet propose une architecture Docker comprenant:
 
 ## Travaux dirigés
 - [Td 1: BDD Bourse](exercices/td-1-bourse/enonce.md)
+- [Td 1: BDD Brasserie](exercices/td-2-brasserie/enonce.md)
 
 # Crédits 
 
