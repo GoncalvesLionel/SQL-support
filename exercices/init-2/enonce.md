@@ -19,8 +19,6 @@ Dans le contexte d'une application de gestion de personnel 'RH MANAGER', vous de
 > - id : entier de taille 11 non null
 > - nom : chaîne de caractères de taille 50 maximum non null et unique
 > - prenom : chaîne de caractères de taille 50 maximum non null et unique
-> - genre : chaîne de caractères de taille 1 maximum non null et unique (H / F)
-> - age : entier de taille 2 not null
 > - service : entier de taille 11  non null
 
 > **Table service**
@@ -32,10 +30,20 @@ Dans le contexte d'une application de gestion de personnel 'RH MANAGER', vous de
 - Insérer 3 services
 
 ## Modifier les tables
-- Ajouter un attribut genre dans la table employe (chaîne de caractères de taille 1 maximum non null et unique (H / F) )
+- Ajouter un attribut genre dans la table employe (chaîne de caractères de taille 1 maximum non null et uniquement (H / F) )
 - Ajouter un attribut age dans la table employe (entier de taille 2 not null )
-- Renseigner le genre et l'age pour chaque employe
+- Renseigner le genre et l'age pour chaque employé
 
 
 ## Vérifier le fonctionnement
 
+- Afficher le nom et le prénom de tous les employés ainsi que le nom du service auquel ils appartiennent
+- Afficher le nom et le prénom de tous les employés de sexe féminin
+- Afficher le nom et prénom des employés de sexe masculin classé par ordre alphabétique de nom
+- Afficher le nom et prénom et l'âge des employés classé par age décroissant
+- Afficher le nombre d'employés de sexe masculin et de sexe féminin
+- Afficher le nombre d'employés par service
+- Afficher la répartition hommes/femmes par service
+- Afficher le nom, prénom et age et service des employés dont l'age est inférieur à 35 ans classé par service et par age décroissant
+- Afficher le nombre d'employés dont l'âge est supérieur à la moyenne
+- Afficher le nom, prénom, age et service des employés masculins dont l'age est compris entre 30 et 50 ans classé par age croissant
