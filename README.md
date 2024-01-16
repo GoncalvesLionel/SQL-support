@@ -12,6 +12,7 @@ Ce projet propose une architecture Docker comprenant :
 
 ## Initiation 
 - [Init 101: BDD todos](exercices/init-101/enonce.md)
+- [Init 2: BDD rh_manager](exercices/init-2/enonce.md)
 
 
 ## Travaux dirigés
