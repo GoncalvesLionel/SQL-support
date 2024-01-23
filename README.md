@@ -18,6 +18,7 @@ Ce projet propose une architecture Docker comprenant :
 ## Travaux dirigés
 - [Td 1: BDD Bourse](exercices/td-1-bourse/enonce.md)
 - [Td 2: BDD Brasserie](exercices/td-2-brasserie/enonce.md)
+- [Td 3: BDD Brasserie](exercices/td-3-brasserie/enonce.md)
 
 # Crédits 
 
